@@ -2,5 +2,4 @@
 # returns the phrase
 
 parrot(squawk)
-puts
 end
